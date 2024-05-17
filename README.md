@@ -29,6 +29,10 @@ This bot was prepared with Python to crash the server. It is very simple to use.
      ```
      This command destroys the specified server. This action is irreversible!
 
+## Preview 
+
+![image](https://github.com/hazard-wbw/Discord-Nuke-Bot-Stable-Version/assets/170093047/34960275-b92b-41d3-b07e-fd0a35cecda8)
+
 ## Contributions
 
 We look forward to your contributions! Share the Project and Star this Repo to Contribute
